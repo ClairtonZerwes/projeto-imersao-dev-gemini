@@ -55,53 +55,31 @@ Contribuições são bem-vindas! Para contribuir com este projeto, siga estes pa
 * **Integrar com APIs:** Utilizar APIs de esportes para obter dados em tempo real sobre os atletas.
 
 ### Exemplo de Uso
-[Insira aqui uma imagem da página web em funcionamento, mostrando a interface de pesquisa e os resultados]
+![image](https://github.com/user-attachments/assets/a0f45913-9a0e-4bce-92e7-6e7cba607b2b)
+
 
 ### Licença
-[Insira aqui a licença escolhida para o seu projeto, por exemplo, MIT]
+MIT License
+
+Copyright (c) 2024 Clairton Zerwes
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ### Agradecimentos
 Agradeço a todos que contribuíram para este projeto.
-
-**Observações:**
-
-* **Detalhes sobre a pasta de imagens:** Explique como as imagens são utilizadas no código e como você organizou a pasta.
-* **Diagrama de classes (opcional):** Se o seu projeto tiver uma complexidade maior, um diagrama de classes pode ajudar a visualizar a estrutura do código.
-* **Documentação do código:** Adicione comentários ao seu código para explicar o funcionamento de cada parte.
-* **Testes:** Se você tiver testes automatizados, mencione-os no README.
-
-**Dicas adicionais:**
-
-* **Utilize Markdown:** O Markdown é uma linguagem de marcação simples e fácil de aprender para formatar o seu README.
-* **Seja claro e conciso:** Use uma linguagem clara e objetiva para explicar o seu projeto.
-* **Use exemplos:** Utilize exemplos de código e imagens para ilustrar suas explicações.
-* **Mantenha o README atualizado:** Atualize o README sempre que fizer alterações significativas no projeto.
-
-**Com este README mais detalhado, você estará fornecendo um guia completo para o seu projeto, facilitando a compreensão e a colaboração de outras pessoas.**
-
-**Gostaria de adicionar mais alguma informação específica ao seu README?**
-
-**Possíveis seções adicionais:**
-
-* **Instalação:** Caso o seu projeto necessite de alguma instalação específica.
-* **Como rodar os testes:** Se você tiver testes automatizados.
-* **Contribuidores:** Lista de pessoas que contribuíram para o projeto.
-
-**Lembre-se:** Um README bem escrito é fundamental para o sucesso do seu projeto!
-
-**Recursos úteis para criar READMEs:**
-* **Guia do GitHub:** [https://guides.github.com/features/README/](https://guides.github.com/features/README/)
-* **Geradores de README:** Existem diversas ferramentas online que podem te ajudar a criar READMEs personalizados.
-
-**Qualquer dúvida, pode perguntar!**
-
-**Com base nas informações fornecidas, posso te ajudar a criar um README ainda mais personalizado para o seu projeto.** 
-
-**Por favor, me forneça mais detalhes sobre:**
-
-* **Qualquer funcionalidade adicional** que você planeja implementar.
-* **A estrutura específica da sua pasta de imagens** (por exemplo, como as imagens são nomeadas e organizadas).
-* **Se você utiliza alguma biblioteca ou framework** além das mencionadas.
-* **Qualquer outra informação relevante** que você gostaria de incluir no README.
-
-Com essas informações, posso te ajudar a criar um README ainda mais completo e informativo.
