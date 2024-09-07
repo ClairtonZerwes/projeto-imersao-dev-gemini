@@ -7,7 +7,7 @@ Este projeto web tem como objetivo criar um catálogo online de atletas olímpic
 * **HTML:** Estrutura da página web.
 * **CSS:** Estilização da página, utilizando a biblioteca Google Fonts para a fonte principal e imagens para ilustrar os atletas.
 * **JavaScript:** Interação com o usuário, pesquisa de atletas e renderização dos resultados na página.
-*   
+   
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
