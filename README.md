@@ -20,7 +20,9 @@ Este projeto web tem como objetivo criar um catálogo online de atletas olímpic
   <p align="center">
     <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
   </p>
-</div>  
+</div> 
+<h2></h2>
+
 ### Estrutura do Projeto
 * **index.html:** Arquivo principal que contém a estrutura HTML da página.
 * **style.css:** Arquivo responsável pelas estilizações da página.
